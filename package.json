@@ -8,5 +8,8 @@
   "license": "MIT",
   "devDependencies": {
     "nuxt": "^2.14.3"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.12"
   }
 }
